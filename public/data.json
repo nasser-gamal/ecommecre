@@ -1,0 +1,372 @@
+[
+  {
+    "category": "laptop",
+    "id": 1,
+    "title": "Dell VOSTRO 3501 Laptop - Intel 10th Gen Core i3-1005G1, 4 GBRAM , 1TB HDD , Intel UHD Graphics, 15.6-Inch , Ubuntu",
+    "price": "15,000",
+    "img": [
+      "/images/laptop/Dell/81LMVJmYivS._AC_SX569_.png",
+      "/images/laptop/Dell/41scRXBQngS._AC_.png",
+      "/images/laptop/Dell/41BvB-EheZS._AC_.png",
+      "/images/laptop/Dell/31xclAU2EYS._AC_.png",
+      "/images/laptop/Dell/41TcGcZwiIS._AC_SX569_.png"
+    ],
+    "Brand": "Dell",
+    "Screensize": "15.6 Inches",
+    "Harddisksize": "1 TB",
+    "OperatingSystem": "Linux",
+    "Processorcount": 2,
+    "Humaninterfaceinput": "Microphone",
+    "body": [
+      "Computer CPU Manufacturer Intel",
+      "External Product ID 5397184511299",
+      "Model Number VOSTRO 3501",
+      "Hard Disk Interface PCIe Serial ATA",
+      "Processor Speed GHz 12 GHz",
+      "Hardware Platform linux",
+      "Processor Type Core i3 10th Generation"
+    ]
+  },
+  {
+    "category": "Bags",
+    "id": 2,
+    "title": "Timberland Men's Canvas Travel Kit",
+    "price": "750",
+    "Size": "One Size",
+    "Material": "Leather canvas",
+    "Brand": "Timberland",
+    "Color": "Khaki",
+    "Closuretype": "Zipper",
+    "Itemdimensions": "LxWxH 21.8  15  12.2 centimeters",
+    "img": [
+      "/images/bags/Timberland Men's Canvas Travel Kit/A1CGK-4-S6L._AC_SX679_.png",
+      "/images/bags/Timberland Men's Canvas Travel Kit/ezgif-1-0ae9b2cb11.png",
+      "/images/bags/Timberland Men's Canvas Travel Kit/ezgif.com-gif-maker.png",
+      "/images/bags/Timberland Men's Canvas Travel Kit/91qi-KiZNAL._AC_SL1500_.png"
+    ],
+    "body": [
+      "Grooming travel bag organizer and travel kit",
+      "Exterior zipper pocket",
+      " Great for use as a shaving, toiletry, and utility kit that fits easily into carry-on luggage",
+      " Carrying handle",
+      " Genuine leather trim"
+    ]
+  },
+  {
+    "category": "shirts",
+    "id": 3,
+    "title": "UMBRO SPORT POLO Shirt FOR MEN COLOR",
+    "price": "459",
+    "Brand": "Umbro",
+    "img": [
+      "/images/shirts/UMBRO SPORT POLO Shirt FOR MEN COLOR/61AKqFDaOqL._AC_SX679_.png",
+      "/images/shirts/UMBRO SPORT POLO Shirt FOR MEN COLOR/31noTXQ6SkL._AC_.png",
+      "/images/shirts/UMBRO SPORT POLO Shirt FOR MEN COLOR/31OMJIEQQ8L._AC_.png",
+      "/images/shirts/UMBRO SPORT POLO Shirt FOR MEN COLOR/31Uq2qrIXfL._AC_.png", 
+      "/images/shirts/UMBRO SPORT POLO Shirt FOR MEN COLOR/31xRYfnKx-L._A_.png" 
+    ],
+    "body": [
+     "SPORT POLY POLO"
+    ]
+  },
+  {
+    "category": "Bags",
+    "id": 4,
+    "title": "SGK Polyester Grey Laptop Bags",
+    "price": "450",
+    "Size": "One Size",
+    "Material": "Leather",
+    "Brand": "SGK",
+    "Color": "Grey",
+    "Closuretype": "Zipper",
+    "Itemdimensions": "LxWxH 21.8  15  12.2 centimeters",
+    "img": [
+      "/images/bags/SGK Polyester Grey Laptop Bags/31cV-4t-DWS._AC_.png",
+      "/images/bags/SGK Polyester Grey Laptop Bags/31D3oGNZcdS._AC_.jpg.png",
+      "/images/bags/SGK Polyester Grey Laptop Bags/31cV-4t-DWS._AC_.png",
+      "/images/bags/SGK Polyester Grey Laptop Bags/41KfisbQfvS._AC_.png",
+      "/images/bags/SGK Polyester Grey Laptop Bags/41oA+eBBu2S._AC_.png"
+    ],
+    "body": [
+      "display attribute: ce display on website",
+      "strap type: Shoulder",
+      "batteries required: FALSE"
+    ]
+  },
+  {
+    "category": "laptop",
+    "id": 5,
+    "title": "HP 255 G7 Laptop - Ryzen 5 3500U, 8 GB RAM, 1 TB HDD, Radeon Graphics, 15.6-Inch HD, DOS - Sliver",
+    "price": "12,000",
+    "img": [
+      "/images/laptop/HP/714tGRw3QPS._AC_SX569_.png",
+      "/images/laptop/HP/71-be1SwBHS._AC_SX569_.png",
+      "/images/laptop/HP/71DrUEIRIQS._AC_SX569_.png",
+      "/images/laptop/HP/71-be1SwBHS._AC_SX569_.png",
+      "/images/laptop/HP/41hdbhgBe8S._AC_SX569_.png"
+    ],
+    "Brand": "HP",
+    "Screensize": "15.6 Inches",
+    "color": "silver",
+    "InstalledRAMmemorysize": "8 GB",
+    "Itemweight": "2.79 kilograms",
+    "body": [
+      "HP 255 G7 Laptop - Ryzen 5 3500U, 8 GB RAM, 1 TB HDD, 15.6-Inch HD, DOS - Sliver",
+      "Good Quality with a high end",
+      "Model Number VOSTRO 3501",
+      "HP 255 G7 Laptop - Ryzen 5 3500U, 8 GB RAM, 1 TB HDD, Radeon Graphics, 15.6-Inch HD, DOS - Sliver",
+      "Easy to use",
+      "Personal Computer type"
+    ]
+  },
+  {
+    "category": "shirts",
+    "id": 6,
+    "title": "Umbro mens UMBRO Basic Short Sleeved - Polo Shirt Polo Shirt",
+    "price": "550.00",
+    "Brand": "Umbro",
+    "img": [
+      "/images/shirts/Umbro mens UMBRO Basic Short Sleeved - Polo Shirt Polo Shirt/81I2sM9XSZL._AC_SX679_.png",
+      "/images/shirts/Umbro mens UMBRO Basic Short Sleeved - Polo Shirt Polo Shirt/315lH79qqEL._AC_SX679_.png",
+      "/images/shirts/Umbro mens UMBRO Basic Short Sleeved - Polo Shirt Polo Shirt/31XmOdGoUKL._AC_SX679_.png",
+      "/images/shirts/Umbro mens UMBRO Basic Short Sleeved - Polo Shirt Polo Shirt/31cjiUyt7fL._AC_SX679_.png"
+    ],
+    "body": [
+     "Basic POLO Shirt"
+    ]
+  },
+  {
+    "category": "laptop",
+    "id": 7,
+    "title": "Lenovo IdeaPad 5 Laptop - 11th Intel Core i5-1135G7, 8GB RAM , 1TB HDD + 256GB SSD, Intel Iris Xe Graphics, 15.6 FHD (1920x1080) TN 250nits Anti-glare, Dos - Platinum Grey",
+    "price": "12,299",
+    "img": [
+      "/images/laptop/Lenovo/41e3wobHsjL._AC_.png",
+      "/images/laptop/Lenovo/51GJ5aE254L._AC_SX569_.png",
+      "/images/laptop/Lenovo/51s+OPBruPL._AC_SX569_.png",
+      "/images/laptop/Lenovo/51hOjpAz45L._AC_SX569_.png",
+      "/images/laptop/Lenovo/41cJS8AAy6L._AC_SX569_.png"
+    ],
+    "Brand": "Lenovo",
+    "Series": "82FG00S2ED",
+    "Screensize": "15.6 Inches",
+    "Harddisksize": "1256 GB",
+    "color": "silver",
+    "InstalledRAMmemorysize": "8 GB",
+    "Itemweight": "2.79 kilograms",
+    "body": [
+      "Intel Core i5-1135G7 (4C / 8T, 2.4 / 4.2GHz, 8MB)",
+      "Integrated Intel Iris Xe Graphics",
+      "8GB RAM 3200",
+      "256GB SSD M.2 2242 PCIe 3.0x2 NVMe + 1TB HDD 5400rpm"
+    ]
+  },
+  {
+    "category": "laptop",
+    "id":8,
+    "title": "Dell Inspiron 5410 2-in-1 Convertible x360 laptop - 11th Intel Core i7-1195G7, 8GB RAM, 512GB SSD, Intel Iris Xe Graphics, 14 FHD Touch, Backlit keyboard, FingerPrint, Windows 11 - Platinum Silver",
+    "price": "19,999",
+    "img": [
+      "/images/laptop/Dell/81waYYcFJZL._AC_SX569_.png",
+      "/images/laptop/Dell/81UjnmcrwOL._AC_SX569_.png",
+      "/images/laptop/Dell/712ouu4qqxL._AC_SX569_.png",
+      "/images/laptop/Dell/71x3kCoYYqL._AC_SX569_.png"
+    ],
+    "Brand": "Dell",
+    "Series": "82FG55S2ED",
+    "Screensize": "14 Inches",
+    "Harddisksize": "1256 GB",
+    "Modelyear": 2022,
+    "InstalledRAMmemorysize": "8 GB",
+    "Itemweight": "2.60 kilograms",
+    "body": [
+      "Dell Inspiron 5410 2-in-1 Convertible x360 laptop - 11th Intel Core i7-1195G7, 8GB RAM, 512GB SSD, Intel Iris Xe Graphics, 14 FHD Touch, Backlit keyboard, FingerPrint, Windows 11 - Platinum Silver",
+      "Good Quality with a high end",
+      "Dell Inspiron 5410 2-in-1 Convertible x360 laptop - 11th Intel Core i7-1195G7, 8GB RAM, 512GB SSD, Intel Iris Xe Graphics, 14 FHD Touch, Backlit keyboard, FingerPrint, Windows 11 - Platinum Silver",
+      "Easy to use",
+      "Personal Computer type"
+    ]
+  },
+  {
+    "category": "laptop",
+    "id": 9,
+    "title": "HP ENVY x360 13m-bd1033dx 2in1 convertable laptop - 11th Intel Core i7-1195G7, 8GB RAM, 512GB SSD, 13.3 FHD OLED Multiouch, Intel Iris Xe Graphics, FingerPrint, Backlit keyboard, Windows 11 - Silver",
+    "price": "19,866",
+    "img": [
+      "/images/laptop/HP/415mLB+gT6L._AC_.png",
+      "/images/laptop/HP/61pNlxZwpTL._AC_SX569_.png",
+      "/images/laptop/HP/71nqaRMMd-L._AC_SX569_.png",
+      "/images/laptop/HP/516HEhPlFdL._AC_SX569_.png",
+      "/images/laptop/HP/41Mn8dj7PML._AC_.png"
+    ],
+    "Brand": "HP",
+    "Series": "13m-bd1033dx",
+    "Screensize": "13.3 Inches",
+    "color": "silver",
+    "Harddisksize": "512 GB",
+    "CPUModel": "Intel Core i7",
+    "Model year": 2022,
+    "OperatingSystem": "windows 11 Home",
+    "InstalledRAMmemorysize": "8 GB",
+    "Itemweight": "2.60 kilograms",
+    "body": [
+      "HP ENVY x360 13m-bd1033dx 2in1 convertable laptop - 11th Intel Core i7-1195G7, 8GB RAM, 512GB SSD, 13.3 FHD OLED Multiouch, Intel Iris Xe Graphics, FingerPrint, Backlit keyboard, Windows 11 - Silver",
+      "Good Quality with a high end",
+      "HP ENVY x360 13m-bd1033dx 2in1 convertable laptop - 11th Intel Core i7-1195G7, 8GB RAM, 512GB SSD, 13.3' FHD OLED Multiouch, Intel Iris Xe Graphics, FingerPrint, Backlit keyboard, Windows 11 - Silver",
+      "Easy to use",
+      "Personal Computer type"
+    ]
+  },
+  {
+    "category": "laptop",
+    "id": 10,
+    "title": "Lenovo IdeaPad Gaming 3 15 15.6 Laptop, 15.6 FHD (1920 x 1080) Display, AMD Ryzen 5 5600H Processor, NVIDIA GeForce GTX 1650, 8GB DDR4 RAM, 256GB SSD Storage, Windows 10H, 82K20015US, Shadow Black",
+    "price": "16,000",
+    "img": [
+      "/images/laptop/Lenovo/71lNj3046jL._AC_SX569_.png",
+      "/images/laptop/Lenovo/714jk9w-OrL._AC_SX569_.png",
+      "/images/laptop/Lenovo/717sJg9o5nL._AC_SX569_.png",
+      "/images/laptop/Lenovo/81hMLkszYZL._AC_SX569_.png"
+    ],
+    "Brand": "Lenovo",
+    "Series": "Ideapad Gaming 3 15 Laptop",
+    "Screensize": "15.6 Inches",
+    "color": "silver",
+    "Harddisksize": "500 GB",
+    "CPUModel": "Intel Core i5",
+    "Modelyear": 2021,
+    "OperatingSystem": "windows 10 Home",
+    "InstalledRAMmemorysize": "8 GB",
+    "Itemweight": "2.25 kilograms",
+    "body": [
+      "11.6 diagonal HD UWVA multitouch-enabled ultra slim LED-backlit (1366 x 768)",
+      "Intel Core i5 5th Gen 5200U (2.20 GHz)",
+      "4GB DDR3 SDRAM ,128GB SSD",
+      "Displayport 1.2, WLAN 802.11ac, HP backlit, spill-resistant keyboard, Application and Driver Recovery DVD",
+      "Windows 10 Pro 64-bit"
+    ]
+  },
+  {
+    "category": "Bags",
+    "id": 11,
+    "title": "Mintra Polyester Front-Logo Detachable-Strap Unisex Waterproof Duffle Bag with Cover Bag",
+    "price": "950",
+    "Size": "52x30x28 cm",
+    "Material": "Leather",
+    "Brand": " Mintra",
+    "Color": "black",
+    "Closuretype": "bal bla",
+    "Itemdimensions": "LxWxH 21.8  15  12.2 centimeters",
+    "img": [
+      "/images/bags/Mintra Polyester Front-Logo Detachable-Strap Unisex Waterproof Duffle Bag with Cover Bag/41cjQdjVyuL._AC_.png",
+      "/images/bags/Mintra Polyester Front-Logo Detachable-Strap Unisex Waterproof Duffle Bag with Cover Bag/61dVtDQr7AL._AC_SX500_.png",
+      "/images/bags/Mintra Polyester Front-Logo Detachable-Strap Unisex Waterproof Duffle Bag with Cover Bag/61HTK5cXPNL._AC_SX500_.png",
+      "/images/bags/Mintra Polyester Front-Logo Detachable-Strap Unisex Waterproof Duffle Bag with Cover Bag/61ClsJikUSL._AC_SX500_.png",
+      "/images/bags/Mintra Polyester Front-Logo Detachable-Strap Unisex Waterproof Duffle Bag with Cover Bag/61tEvuHSr2L._AC_SX500_.png"
+    ],
+    "body": ["100% Polyester", "Front pockets", "Adjustable strap"]
+  },
+  {
+    "category": "Bags",
+    "id": 12,
+    "title": "Mintra Polyester Maze-Pattern Unisex Waterproof School Backpack",
+    "price": "139",
+    "Size": "One Size",
+    "Material": "Leather",
+    "Brand": "Mintra",
+    "Color": "Navy & Blue",
+    "Closuretype": "Zipper",
+    "Itemdimensions": "10 x 20 x 30 centimeters",
+    "img": [
+      "/images/bags/Mintra Polyester Maze-Pattern Unisex Waterproof School Backpack/A1yyCeiZ9iL._AC_SY695_.png",
+      "/images/bags/Mintra Polyester Maze-Pattern Unisex Waterproof School Backpack/91UVuNHGc4L._AC_SY695_.png",
+      "/images/bags/Mintra Polyester Maze-Pattern Unisex Waterproof School Backpack/81kkuX3u7IL._AC_SY695_.png",
+      "/images/bags/Mintra Polyester Maze-Pattern Unisex Waterproof School Backpack/A1n-emS2o1L._AC_SY625_.png",
+      "/images/bags/Mintra Polyester Maze-Pattern Unisex Waterproof School Backpack/B1MY8fbxeqL._AC_SY500_.png"
+    ],
+    "body": [
+      "100% polyester",
+      " Dimensions: 30x20x10 centimeters",
+      "Made in Egypt"
+    ]
+  },
+  {
+    "category": "Bags",
+    "id": 13,
+    "title": "Sling Bag Cat for Men Women Chest Bags Shoulder Backpack Crossbody Travel Hiking Daypack with USB Cable",
+    "price": "400",
+    "Size": "One Size",
+    "Material": "Leather",
+    "Brand": " Generic",
+    "Color": "black",
+    "Itemdimensions": "10 x 20 x 30 centimeters",
+    "img": [
+      "/images/bags/Sling Bag Cat for Men Women Chest Bags Shoulder Backpack Crossbody Travel Hiking Daypack with USB Cable/41XHXOp23UL._AC_SX679_.png",
+      "/images/bags/Sling Bag Cat for Men Women Chest Bags Shoulder Backpack Crossbody Travel Hiking Daypack with USB Cable/41xmG+sjAxL._AC_SX679_.png",
+      "/images/bags/Sling Bag Cat for Men Women Chest Bags Shoulder Backpack Crossbody Travel Hiking Daypack with USB Cable/51Z5VdhqN7L._AC_SX679_.png",
+      "/images/bags/Sling Bag Cat for Men Women Chest Bags Shoulder Backpack Crossbody Travel Hiking Daypack with USB Cable/5102QcB+v2L._AC_SX679_.png",
+      "/images/bags/Sling Bag Cat for Men Women Chest Bags Shoulder Backpack Crossbody Travel Hiking Daypack with USB Cable/5105LEIR+yL._AC_SX679_.png"
+    ],
+    "body": [
+      " Shoulder Backpack",
+      "Sling Bag",
+      "Travel Hiking",
+      "USB Cable",
+      "for Men Women Chest"
+    ]
+  },
+  {
+    "category": "shirts",
+    "id": 14,
+    "title": "Romba Men's Cotton Half Sleeve Polo Shirt",
+    "price": "99.99",
+    "Brand": "  Romba",
+    "img": [
+      "/images/shirts/Romba Men's Cotton Half Sleeve Polo Shirt/71Be+Z2ioCL._AC_SX679_.png",
+      "/images/shirts/Romba Men's Cotton Half Sleeve Polo Shirt/61htoVm6E8L._AC_SX679_.png",
+      "/images/shirts/Romba Men's Cotton Half Sleeve Polo Shirt/711utlPUuqL._AC_SX679_.png"
+    ],
+    "body": ["Heat Resistant Cotton Material For Extra Comfort"]
+  },
+  {
+    "category": "shirts",
+    "id": 15,
+    "title": "Romba Men's Summer Text Sleeve Cotton T Shirt",
+    "price": "250.00",
+    "Brand": "Generic",
+    "img": [
+      "/images/shirts/Romba Men's Summer Text Sleeve Cotton T Shirt/71TBwCsQv3L._AC_SY679_.png",
+      "/images/shirts/Romba Men's Summer Text Sleeve Cotton T Shirt/71089EG9xWL._AC_SY679_.png",
+      "/images/shirts/Romba Men's Summer Text Sleeve Cotton T Shirt/61cwBhmgPrL._AC_SY679_.png",
+      "/images/shirts/Romba Men's Summer Text Sleeve Cotton T Shirt/61M--odW8ML._AC_SY679_.png"
+    ],
+    "body": [
+      " Is Adult Product : 0",
+      "Top Style : T-Shirts",
+      "Neck Style : Round Neck",
+      "Fabric Type : Cotton",
+      "Sleeve Length : Short Sleeve",
+      "Material Composition : 87% Cotton 13% Polyester",
+      "Targeted Group : Men",
+      "Brand : null"
+    ]
+  },
+  {
+    "category": "shirts",
+    "id": 16,
+    "title": "Umbro mens UMBRO Basic Short Sleeved - T Shirt T-Shirt",
+    "price": "350.00",
+    "Brand": "Umbro",
+    "img": [
+      "/images/shirts/Umbro mens UMBRO Basic Short Sleeved - T Shirt T-Shirt/61s3lyfNf9L._AC_SY679_.png",
+      "/images/shirts/Umbro mens UMBRO Basic Short Sleeved - T Shirt T-Shirt/51DOW3-Z3-L._AC_SY679_.png",
+      "/images/shirts/Umbro mens UMBRO Basic Short Sleeved - T Shirt T-Shirt/51-fb4jMWQL._AC_SY679_.png",
+      "/images/shirts/Umbro mens UMBRO Basic Short Sleeved - T Shirt T-Shirt/61pjrbySHNL._AC_SY679_.png"
+    ],
+    "body": [
+      " Is Adult Product : 0",
+      "Top Style : T-Shirts",
+      "Neck Style : Round Neck"
+    ]
+  }
+]

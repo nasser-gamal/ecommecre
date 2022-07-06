@@ -1,0 +1,170 @@
+.img-slider {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #1b1a1a6b;
+  z-index: 99999;
+}
+.img-slider .image-info {
+  width: 600px;
+  height: 300px;
+  max-width: 100%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 5px;
+  z-index: 1111;
+}
+@media (max-width: 767px) {
+  .img-slider .image-info {
+    width: 350px;
+  }
+}
+@media (max-width: 575px) {
+  .img-slider .image-info {
+    width: 300px;
+    height: 250px;
+  }
+}
+.img-slider .image-info img {
+  width: calc(100% - 50px);
+  height: 200px;
+  object-fit: contain;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.img-slider .image-info .close {
+  float: right;
+  font-size: 30px;
+  margin-right: 15px;
+  cursor: pointer;
+}
+@media (min-width: 567px) {
+  .product-page {
+    padding-top: 50px;
+  }
+}
+@media (min-width: 767px) {
+  .product-page .product-details .image-info {
+    width: 300px;
+  }
+}
+.product-page .product-details .image-info img {
+  width: 70px;
+  height: 60px;
+  cursor: pointer;
+  border: 1px solid #645e5e36;
+  transition: 0.8s;
+  object-fit: contain;
+}
+.image-prod img {
+  padding: 20px 50px;
+    width: 400px;
+    height: 300px;
+    object-fit: contain;
+    cursor: pointer;
+}
+@media (max-width: 575px) {
+  .image-prod img {
+    height: 150px;
+  }
+}
+.product-page .product-details .image-info img.hover {
+  border: 1px solid #0f86e5;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.product-page .product-details .text {
+  width: 400px;
+}
+.product-page .product-details .text h2 {
+  font-size: 17px;
+  line-height: 1.7;
+  border-bottom: 1px solid #12121214;
+}
+
+.product-page .product-details .text table {
+  border-color: #12121214;
+}
+
+.product-page .product-details .text table td {
+  width: 350px;
+  justify-content: space-between;
+  padding: 5px;
+}
+@media (max-width: 567px) {
+  .product-page .product-details .text table td {
+    width: 320px;
+  }
+}
+.product-page .product-details .text table td :first-child {
+  font-size: 14px;
+  margin-top: 7px;
+}
+.product-page .product-details .text table td :last-child {
+  width: 150px;
+  font-size: 15px;
+}
+.product-page .product-details .price {
+  color: red;
+}
+
+.product-page .btn {
+  width: 100%;
+  padding: 4px;
+  background-color: #f0c14b;
+  color: black;
+  border: 1px solid rgb(0 0 0 / 32%) !important;
+}
+.product-page .product-details .details {
+  font-size: 15px;
+}
+.product-page .product-details .details ul li {
+  list-style: initial;
+  line-height: 1.7;
+}
+
+.product-page .loading {
+  top: 0;
+  background-color: #35343436;
+  width: 100%;
+  height: 100%;
+}
+ .suggest-product {
+  padding: 15px;
+  border-radius: 5px;
+  background-color: white;
+}
+.suggest-content img {
+  width: 250px;
+  height: 80px;
+  transition: 0.5s;
+  object-fit: contain;
+}
+.suggest-content  img:hover {
+  transform: scale(1.1);
+}
+.suggest-product > .text  {
+  font-size: 14px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.11);
+}
+.suggest-product > .text span  {
+  font-size: 20px;
+}
+.suggest-content .text h1 {
+  font-size: 15px;
+  transition: 0.5s;
+}
+.suggest-content .text h1:hover {
+  color: red;
+}
+.suggest-content .text span.price {
+  font-size: 13px;
+  color: rgb(66, 31, 224);
+}

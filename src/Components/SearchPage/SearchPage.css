@@ -1,0 +1,77 @@
+.search-page .no-result {
+  font-size: 35px;
+  padding: 120px 0 146px;
+}
+.search-page .no-result span {
+  color: red;
+}
+.search-info {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 0 30px;
+}
+.search-info .product {
+  background-color: white;
+  border: 1px solid rgba(0, 0, 0, 0.288);
+}
+.search-info .text h1 {
+  font-size: 15px;
+  transition: 0.5s;
+}
+.search-info .text h1:hover {
+  color: red;
+}
+.search-info img {
+  width: 150px;
+  height: 80px;
+  object-fit: contain;
+  transition: 0.5s;
+}
+.search-info img:hover {
+  transform: scale(1.1);
+}
+.search-info a:not(.link-content) {
+  font-size: 13px;
+  border-radius: 10px;
+  transition: 0.5s;
+  width: fit-content;
+}
+.search-info .text span.brand-name {
+  font-size: 13px;
+}
+.search-info .text span.price {
+  font-size: 13px;
+  color: rgb(66, 31, 224);
+}
+
+
+.search-page .result span {
+  color: red;
+}
+.search-page .text .price {
+  color: blue !important;
+}
+.loading span {
+  display: block;
+  width: 35px;
+  height: 35px;
+  border: 2px solid;
+  border-color: black black transparent black;
+  border-radius: 50%;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  animation-duration: 1s;
+  animation-name: loadingRotation;
+  animation-timing-function: linear;
+  animation-fill-mode: both;
+  animation-iteration-count: infinite;
+}
+@keyframes loadingRotation {
+  from {
+    transform: rotate(0);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

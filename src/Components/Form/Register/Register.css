@@ -1,0 +1,101 @@
+.register {
+  width: 350px;
+  max-width: 100%;
+  margin: 50px auto;
+  padding: 20px;
+  border: 1px solid rgba(0, 0, 0, 0.178);
+  border-radius: 5px;
+}
+@media (max-width: 767px) {
+  .register {
+    margin-top: 50px;
+  }
+}
+@media (max-width: 575px) {
+  .register {
+    width: 340px;
+  }
+}
+.register .regis {
+  font-size: 25px;
+}
+.register .register-info .input-div {
+  display: flex;
+  flex-direction: column;
+}
+.register .register-info .input-div input {
+  border-radius: 5px;
+  outline: none;
+  border: 1px solid rgba(2, 2, 2, 0.479);
+  padding: 5px 5px 5px 10px;
+}
+.register .register-info .input-div input:focus {
+  box-shadow: 0 0 0 0.25rem rgb(13 110 253 / 25%);
+}
+.register .register-info button:focus {
+  box-shadow: none;
+}
+.error {
+  font-size: 14px;
+  color: red;
+}
+label {
+  font-size: 13px;
+}
+.register input::placeholder {
+  font-size: 12px;
+}
+.register svg {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+  cursor: pointer;
+}
+.input-error {
+  border: 1px solid red !important;
+  box-shadow: none;
+}
+
+.register button {
+  background-color: #f0c14b;
+  border: 1px solid rgb(0 0 0 / 32%);
+  color: black;
+  width: 100%;
+  transition: 0.5s;
+  padding: 2px;
+}
+.register button:hover {
+  background-color: #e6a606;
+}
+.register .acc-info {
+  font-size: 14px;
+}
+.register .acc-info a:hover {
+  text-decoration: underline !important;
+  color: red !important;
+}
+.register-done {
+  position: fixed !important;
+  top: 80px;
+  width: 350px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 0.5s;
+  transform: translateX(-100%);
+}
+.register-page div.show {
+  transform: translateX(0);
+}
+@media (max-width: 767px) {
+  .register-done {
+    top: 50px;
+  }
+}
+
+.spinner-border {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}

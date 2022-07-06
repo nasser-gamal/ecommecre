@@ -1,0 +1,30 @@
+.landing {
+  background-image: url('../../../public/images/xh1_hero1.jpg.pagespeed.ic.i78C8XcvnM.webp');
+  background-position: 70%;
+  background-repeat: no-repeat;
+  display: flex;
+  height: 100vh;
+  justify-content: flex-start;
+  align-items: center;
+    transition: 0.5s;
+    z-index: 99999999;
+}
+.landing .text h2 {
+  text-shadow: 0 1px black;
+}
+.landing .text p {
+  text-shadow: 0 1px black;
+}
+@media (min-width: 992px) {
+  .landing .text {
+    padding-bottom: 30px;
+  }
+}
+.landing .text span {
+  color: red;
+}
+@media (max-width: 767px) {
+  .landing  {
+    text-align: center;
+  }
+}

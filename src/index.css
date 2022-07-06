@@ -1,0 +1,26 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Lato", sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #eee !important;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+a {
+  color: black !important;
+  text-decoration: none !important;
+}
+ul {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+ul li {
+  list-style: none;
+}
+.btn:focus {
+  box-shadow: none !important;
+}

@@ -1,0 +1,126 @@
+.content {
+  padding: 15px;
+  overflow: hidden;
+  border-radius: 5px;
+  background-color: white;
+}
+.slider-product {
+  width: 250px;
+  height: 200px;
+  border: 1px solid  rgba(0, 0, 0, 0.288);
+}
+@media (max-width: 575px) {
+  .slider-product {
+    height: 220px;
+  }
+}
+.trending {
+  width: 2100px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+@media (max-width: 1200px) {
+  .trending {
+    width: 1900px;
+  }
+}
+@media (max-width: 991px) {
+  .trending {
+    width: 1700px;
+  }
+}
+@media (max-width: 767px) {
+  .trending {
+    width: 1440px;
+  }
+}
+@media (max-width: 576px) {
+  .trending {
+    width: 1350px;
+  }
+}
+
+
+.content-info {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.11);
+}
+.content-info span {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  cursor: pointer;
+  /* background-color: black; */
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+  background-color: white;
+
+}
+.content-info span svg {
+  font-size: 30px;
+
+}
+.content-info span.un-clicked  {
+  pointer-events: none;
+}
+.content-info span.un-clicked svg {
+  color: rgba(0, 0, 0, 0.349);
+}
+.content-info  a:hover {
+  color: red !important;
+  text-decoration: underline !important;
+}
+.new-content .text h1 {
+  font-size: 13px;
+  transition: 0.5s;
+}
+.new-content .text h1:hover {
+  color: red;
+}
+.new-content img {
+  width: 150px;
+  height: 80px;
+  object-fit: contain;
+  transition: 0.5s;
+}
+.new-content img:hover {
+  transform: scale(1.1);
+}
+.new-content a:not(.link-content) {
+  font-size: 13px;
+  border-radius: 10px;
+  transition: 0.5s;
+  width: fit-content;
+}
+.new-content .text span.brand-name {
+  font-size: 13px;
+}
+.new-content .text span.price {
+  font-size: 13px;
+  color: rgb(66, 31, 224);
+}
+
+.loading span {
+  display: block;
+  width: 35px;
+  height: 35px;
+  border: 2px solid;
+  border-color: black black transparent black;
+  border-radius: 50%;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  animation-duration: 1s;
+  animation-name: loadingRotation;
+  animation-timing-function: linear;
+  animation-fill-mode: both;
+  animation-iteration-count: infinite;
+}
+@keyframes loadingRotation {
+  from {
+    transform: rotate(0);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
